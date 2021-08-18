@@ -38,7 +38,6 @@ public class Main {
         devIlberto.inscreverBootcamp(bootcamp);
         System.out.println("Conteúdos Inscritos Ilberto" + devIlberto.getConteudosInscritos());
         devIlberto.progredir();
-        devIlberto.progredir();
         System.out.println("---");
         System.out.println("Conteúdos Concluídos Ilberto" + devIlberto.getConteudosInscritos());
         System.out.println("Conteúdos Concluídos Ilberto" + devIlberto.getConteudosConcluidos());
@@ -50,8 +49,6 @@ public class Main {
         devCamila.setNome("Camila Cavalcante");
         devCamila.inscreverBootcamp(bootcamp);
         System.out.println("Conteúdos Inscritos Camila" + devCamila.getConteudosInscritos());
-        devCamila.progredir();
-        devCamila.progredir();
         devCamila.progredir();
         System.out.println("---");
         System.out.println("Conteúdos Concluídos Camila" + devCamila.getConteudosInscritos());
